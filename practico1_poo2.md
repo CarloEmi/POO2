@@ -18,6 +18,7 @@
 ### Enlace al trabajo:
 
 * [Clic para acceder al enlace del Trabajo Práctico 1](https://docs.google.com/document/d/10ozBrefH8_Rt6cqixDoiWSv9Bz174cFdEHMUvW1YfaQ/edit?usp=sharing)
+* [Clic para acceder al enlace de las consignas del Trabajo Práctico 1](https://www.fceqyn.unam.edu.ar/moodle/pluginfile.php/285666/mod_resource/content/1/Trabajo%20Pr%C3%A1ctico%201.pdf)
 
 Aclaraciones:
 1. Biblioteca: 
