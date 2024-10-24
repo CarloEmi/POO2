@@ -10,8 +10,8 @@ public class Libro {
     /**
      * Constructor de la clase Libro.
      *
-     * @param titulo       Título del libro
-     * @param autor        Autor del libro
+     * @param titulo        Título del libro
+     * @param autor         Autor del libro
      * @param numeroPaginas Número de páginas del libro
      */
     public Libro(String titulo, String autor, int numeroPaginas) {
@@ -22,9 +22,23 @@ public class Libro {
     }
 
     // Getters y Setters
-    public String getTitulo() { return titulo; }
-    public String getAutor() { return autor; }
-    public int getNumeroPaginas() { return numeroPaginas; }
-    public boolean isPrestado() { return prestado; }
-    public void setPrestado(boolean prestado) { this.prestado = prestado; }
+    public String getTitulo() {
+        return titulo;
+    }
+
+    public String getAutor() {
+        return autor;
+    }
+
+    public int getNumeroPaginas() {
+        return numeroPaginas;
+    }
+
+    public boolean isPrestado() {
+        return prestado;
+    }
+
+    public void setPrestado(boolean prestado) {
+        this.prestado = prestado;
+    }
 }

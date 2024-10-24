@@ -12,7 +12,7 @@ public class Usuario {
     /**
      * Constructor de la clase Usuario.
      *
-     * @param id    ID único del usuario
+     * @param id     ID único del usuario
      * @param nombre Nombre del usuario
      */
     public Usuario(String id, String nombre) {
@@ -22,9 +22,17 @@ public class Usuario {
     }
 
     // Getters y Setters
-    public String getId() { return id; }
-    public String getNombre() { return nombre; }
-    public List<Libro> getLibrosPrestados() { return librosPrestados; }
+    public String getId() {
+        return id;
+    }
+
+    public String getNombre() {
+        return nombre;
+    }
+
+    public List<Libro> getLibrosPrestados() {
+        return librosPrestados;
+    }
 
     /**
      * Presta un libro al usuario.
