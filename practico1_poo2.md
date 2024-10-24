@@ -10,8 +10,10 @@
 - Lic. Biale, Claudio.
 - Asc. Kovalski, Matías.
 
-## Estudiante: 
+## Estudiantes: 
 - Pereyra, Carlos Emiliano.
+- Henker, Franco.
+- Da Silva, Marcos.
 
 **Año 2024**
 
