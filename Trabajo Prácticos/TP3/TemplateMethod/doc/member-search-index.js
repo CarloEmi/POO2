@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"TemplateMethod","c":"CakeClient","l":"CakeClient()","u":"%3Cinit%3E()"},{"p":"TemplateMethod","c":"CakeClient","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
