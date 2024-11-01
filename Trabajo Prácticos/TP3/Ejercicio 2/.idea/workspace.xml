@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="02045198-90cd-4bed-8a8a-78c168466584" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../POO2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Ejercicio 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/img/diagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/allpackages-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/composite/Directory.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/composite/Directory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/composite/File.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/composite/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/composite/FileSystemComponent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/composite/FileSystemComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/composite/Main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/composite/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/composite/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/index-all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/legal/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/legal/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/legal/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/legal/jquery.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/legal/jqueryUI.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/module-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/package-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/resource-files/copy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/resource-files/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/resource-files/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/resource-files/link.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/resource-files/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/resource-files/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/script-files/jquery-3.6.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/script-files/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/script-files/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/script-files/search-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/script-files/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/tag-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/type-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trabajo Prácticos/TP1/TP1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trabajo Prácticos/Trabajo Práctico 2/Escenario - Restaurante/Escenario - Restaurante.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trabajo Prácticos/Trabajo Práctico 2/Escenario_biblioteca/Escenario_biblioteca.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../proyecto_biblioteca/proyecto_biblioteca.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;francohenker&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/CarloEmi/POO2&quot;,
+    &quot;accountId&quot;: &quot;51895012-1cfd-4da3-ad8c-1c99eb87ea3d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2nvly9eFHykGYq7eUpNod18wKJS" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "#1 on group",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/donpal/Desktop/dev/POO2/TP3/Ejercicio 2",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.notifications",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02045198-90cd-4bed-8a8a-78c168466584" name="Changes" comment="" />
+      <created>1729861682164</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729861682164</updated>
+      <workItem from="1729862557075" duration="100000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
