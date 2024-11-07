@@ -1,0 +1,41 @@
+Explicación del Diagrama de Clases
+Clase Abstracta Cake:
+
+Atributos:
+name : String: Representa el nombre del pastel. Este atributo puede ser inicializado en las subclases o durante la instanciación.
+Métodos:
+makeCake() : void: Es el Template Method que define el flujo de fabricación del pastel.
+prepareIngredients() : void (abstract): Método abstracto que cada subclase implementa para definir los ingredientes específicos.
+decorateCake() : void (abstract): Método abstracto que cada subclase implementa para decorar el pastel según el tipo.
+bakeCake() : void: Método concreto para hornear el pastel. Todos los pasteles se hornean de la misma forma.
+packageCake() : void: Método concreto para empaquetar el pastel, también común a todos los tipos de pastel.
+Subclase ChocolateCake:
+
+Atributos:
+flavor : String: Indica que el sabor del pastel es chocolate.
+Métodos:
+prepareIngredients() : void: Implementación específica que muestra los ingredientes necesarios para un pastel de chocolate.
+decorateCake() : void: Implementación específica que describe la decoración del pastel de chocolate.
+Subclase VanillaCake:
+
+Atributos:
+flavor : String: Indica que el sabor del pastel es vainilla.
+Métodos:
+prepareIngredients() : void: Implementación específica que muestra los ingredientes necesarios para un pastel de vainilla.
+decorateCake() : void: Implementación específica que describe la decoración del pastel de vainilla.
+Clase CakeClient:
+
+Método main(String[] args) : void: Método principal que actúa como cliente, donde se instancian y fabrican los diferentes tipos de pasteles (ChocolateCake y VanillaCake), utilizando el método makeCake().
+Este diagrama representa el sistema completo, destacando cómo cada subclase de Cake implementa los detalles específicos de los pasos de fabricación, mientras que el flujo principal se gestiona desde el método makeCake() 
+en la clase abstracta Cake. La clase CakeClient permite ejecutar este flujo y verificar que cada tipo de pastel se fabrique correctamente.
+
+Generalización: ChocolateCake y VanillaCake son especializaciones de Cake, es decir, representan diferentes tipos de pasteles que comparten el mismo proceso general de fabricación, aunque con variaciones en ciertos pasos.
+Abstracción y Flexibilidad: Gracias a los métodos abstractos prepareIngredients() y decorateCake(), cada subclase tiene la flexibilidad de modificar solo los pasos que varían, manteniendo el flujo del proceso inalterado en el método makeCake().
+Ventajas del Patrón Template Method: Este patrón facilita la adición de nuevos tipos de pasteles. Cada vez que se necesite un pastel diferente, solo será necesario crear una nueva subclase de Cake que implemente los métodos abstractos.
+
+Relaciones
+-Relación de Herencia:En el diseño del patrón Template Method, ChocolateCake y VanillaCake son subclases de Cake, lo que significa que ChocolateCake y VanillaCake heredan de Cake,
+-Cake se relaciona con ChocolateCake y VanillaCake mediante herencia (representada en los diagramas de clase por una línea con un triángulo hacia Cake).
+-ChocolateCake y VanillaCake heredan de Cake, lo que significa que ambos son tipos específicos de Cake, cada uno implementando detalles específicos en el proceso de fabricación de pasteles.
+-El sistema utiliza el patrón Template Method, donde Cake define el flujo general de fabricación y cada subclase concreta (ChocolateCake, VanillaCake) especifica los pasos personalizados.
+- CakeClient debe componer o utilizar instancias de ChocolateCake y VanillaCake. Es una relación de uso (o relación de cliente), en lugar de una relación de herencia.

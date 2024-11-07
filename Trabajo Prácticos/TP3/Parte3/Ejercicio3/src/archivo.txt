@@ -1,0 +1,3 @@
+[!] Error: Error 1
+[+] Informacion: Informacion 1
+[!] Advertencia: Advertencia 1
